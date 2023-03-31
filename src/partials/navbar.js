@@ -2,7 +2,7 @@ import { Inter } from "next/font/google";
 
 const inter = Inter({ subsets: ["latin"] });
 
-export default function navbar() {
+export default function Navbar() {
   return (
     <>
       <h1>Rusty Operations</h1>
