@@ -1,7 +1,7 @@
 export default function WhatDoWeOffer() {
   return (
-    <>
-      <h2>What Do We Offer</h2>
-    </>
+    <section id="whatweoffer">
+      <h2>What We Offer</h2>
+    </section>
   );
 }
