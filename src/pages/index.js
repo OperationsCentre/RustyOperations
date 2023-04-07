@@ -15,8 +15,8 @@ export default function Home() {
         <link rel="icon" href="./favicon.ico" />
       </Head>
       <main>
+        <Navbar />
         <div className="content">
-          <Navbar />
           <About />
           <WhatDoWeOffer />
           <Shop />
